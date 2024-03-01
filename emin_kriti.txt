@@ -15,5 +15,9 @@ yetim praktikada vaxt kececey muhazirede vaxt getmir`
 sdnhsbs
 
 
+<<<<<<< HEAD
 son yoxlama
 EFBWUFWUFGWEFUYGWEF
+=======
+bu bizi sikecey 
+>>>>>>> 2239e00a9f894b7aa5e251fb18b05c7a5db32bf2
